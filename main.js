@@ -94,4 +94,4 @@ window.addEventListener('resize', () => {
     matrixEffect.resize(cv.width, cv.height);
 })
 
-// animate(0);
+animate(0);
